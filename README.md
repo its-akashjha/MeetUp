@@ -1,7 +1,7 @@
 ![Screenshot 2024-03-10 140016](https://github.com/its-akashjha/MeetUp/assets/82963534/acc6e1da-6bf5-4289-89f8-55a34b7ac5e1)
 
 
-## React-VideoCall
+## MeetUp
 Live : https://meetup-ejvt.onrender.com
 
 
