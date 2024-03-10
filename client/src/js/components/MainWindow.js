@@ -51,7 +51,7 @@ function MainWindow({ startCall }) {
           type="text"
           className="txt-clientId"
           spellCheck={false}
-          placeholder="ID: e.g. its-akashjha-0425"
+          placeholder="ID :  its-akashjha-0425"
           onChange={(event) => setFriendID(event.target.value)}
         />
         <div>
