@@ -1,7 +1,10 @@
-## React-VideoCall
-Live : https://meetup-ejvt.onrender.com   
+![Screenshot 2024-03-10 140016](https://github.com/its-akashjha/MeetUp/assets/82963534/acc6e1da-6bf5-4289-89f8-55a34b7ac5e1)
 
-<img align="right" width="420" src="https://raw.githubusercontent.com/nguymin4/react-videocall/master/screenshots/1.png"  alt =" " style="border: solid 1px #d4d4d4" />
+
+## React-VideoCall
+Live : https://meetup-ejvt.onrender.com
+
+
   
 Video call to your friend without registering. 
 Simply send your friend your auto-generated unique ID to make the call.  
